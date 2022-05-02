@@ -4,7 +4,7 @@
                 activate:lower()
                 if activate == "k" then
 local args = {
-    [1] = workspace:FindFirstChild("OFLBALL"),
+    [1] = workspace:FindFirstChild("TPS"),
     [2] = Vector3.new(1, 2, 1)
 }
 
