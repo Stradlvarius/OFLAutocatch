@@ -11,3 +11,5 @@ local args = {
 game:GetService("ReplicatedStorage").CatchBall:FireServer(unpack(args))
      end
 end)
+
+print("PAKISTANNNNNNNNNNNNNNNNNNNN")
