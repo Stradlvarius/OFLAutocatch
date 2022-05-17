@@ -4,7 +4,7 @@
                 activate:lower()
                 if activate == "k" then
 local args = {
-    [1] = workspace:FindFirstChild("TPS"),
+    [1] = workspace:FindFirstChild("OFL"),
     [2] = Vector3.new(1, 2, 1)
 }
 
@@ -12,4 +12,4 @@ game:GetService("ReplicatedStorage").CatchBall:FireServer(unpack(args))
      end
 end)
 
-print("PAKISTANNNNNNNNNNNNNNNNNNNN")
+print("OFL Autocatch")
